@@ -1,0 +1,89 @@
+body{background-color: #000000;}
+.Text{
+    font-family: Helvetica;
+    text-align: center;
+    background-color:#000000 ;
+    margin: 70px;
+    padding: 20px 50px;
+    font-size: 50px;
+    text-decoration: underline ;
+    text-decoration-color: #F18289;
+    
+}
+
+@font-face{
+    font-family: Helvetica ;
+    src: url(../assets/fonts/Helvetica.ttf);
+}
+
+.TextFont{
+    font-family: Helvetica;
+    text-align: left;
+    color: #ffffff ;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+.TextFont2{ color: #ffffff;
+    font-family: Helvetica;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    font-size: 20px;
+
+
+Fuente: <a href="https://recursivos.com/css/separacion/" title="CSS: Separación">CSS: Separación</a>
+}
+
+.TextFont3{
+    font-family: Helvetica;
+    font-size: 29px;
+  
+}
+.container{
+    margin: 100px;
+    background-color:#000000;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    
+}
+
+.container2{
+    background-color: #000000;
+    margin-bottom: 20px;
+    margin:auto;
+    font-family: Helvetica;
+    text-align: end;
+    border-radius: 6px;
+    
+
+}
+
+.Linea{
+    border: 2px dotted rgb(255, 255, 255);
+}
+.box{
+    padding: 20px 30px;
+    background-color: #000000;
+    border-radius: 6px;
+ 
+    margin: auto
+ }
+    
+  .boton{
+   
+
+        text-align: center;
+        
+        
+    }
+    .bot{font-size:20px;
+        color: #fff;
+        padding: 10px;
+        font-weight: 600;
+        background-color:#FF4500;
+        }
+
+        .imagen{width: 200px;}
